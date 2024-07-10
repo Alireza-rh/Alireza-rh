@@ -24,6 +24,6 @@
     </a>
 
 <a href="https://t.me/Allii_4">
-        <img src="./images/icons8-telegram-96.png" width="40px" alt="">
+        <img src="./icons8-telegram-96.png" width="40px" alt="">
     </a>
 
