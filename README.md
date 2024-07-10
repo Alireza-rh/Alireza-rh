@@ -19,11 +19,10 @@
 </div>
 
 <h3>Social</h3>
-    <a href="https://www.instagram.com/alireza3._.3">
-        <img src="./icons8-instagram-96.png" width="40px" alt="instagram">
-    </a>
+<a href="https://www.instagram.com/alireza3._.3"><img src="./icons8-instagram-96.png" width="40px" alt="instagram"></a>
+<a href="https://t.me/Allii_4"><img src="./icons8-telegram-96.png" width="40px" alt=""></a>
+    
+---
 
-<a href="https://t.me/Allii_4">
-        <img src="./icons8-telegram-96.png" width="40px" alt="">
-    </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-rh)](https://github.com/anuraghazra/github-readme-stats)
 
